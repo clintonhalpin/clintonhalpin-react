@@ -39,7 +39,7 @@ class App extends Component {
           <ul className="fancy-list list-reset">
             <li>Chatbots and automation</li>
             <li>Search engines</li>
-            <li>Machine Learning, Natrual Language Processing</li>
+            <li>Ranking Algorithms, Machine Learning, Natrual Language Processing</li>
           </ul>
           
           <h2 className="m0"><a href="https://salesforce.com">Salesforce</a><span className="h5 ml2">2013-2016</span></h2>
