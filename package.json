@@ -1,0 +1,23 @@
+{
+  "name": "clintonhalpin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "basscss": "^8.0.3",
+    "basscss-background-colors": "^2.1.0",
+    "basscss-colors": "^2.2.0",
+    "basscss-responsive-margin": "^1.1.0",
+    "basscss-responsive-padding": "^1.1.0",
+    "normalize.css": "^7.0.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10",
+    "serve": "^6.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
