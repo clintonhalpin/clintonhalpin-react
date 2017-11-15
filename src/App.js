@@ -29,7 +29,7 @@ class App extends Component {
 
         <div className="container mx-auto px2">
 
-          <h1 className="jumbo tight">technology lead, product, ux/ui &amp; background.</h1>
+          <h1 className="jumbo tight">technology lead, product, ux &amp; ui background.</h1>
 
           <h2 className="mb0"><a href="https://quotecatalog.com">Quote Catalog</a><span className="h5 ml2">Present</span></h2>
           <hr />
