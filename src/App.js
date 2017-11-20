@@ -64,7 +64,11 @@ class App extends Component {
 
           <h2 className="dark-black py2 m0">Even More</h2>
 
-          <h2 className="m0"><a href="https://github.com/thoughtis/gistbot">Slack Chatbot Sample</a></h2>
+          <h2 className="m0"><a href="http://sawsomeart.com">Saw Some Art</a></h2>
+          <hr />
+          <p className="mt0">My art instagram account and API</p>
+
+          <h2 className="m0"><a href="https://docs.google.com/presentation/d/1AGFl4n_bpdYJLvjceJzYUMSJ1dxMYqbqkH1WG69ALN0/edit?usp=sharing">Slack Chatbot Sample</a></h2>
           <hr />
           <p className="mt0">Demo for my Brooklyn JS Talk about Chatbots</p>
 
