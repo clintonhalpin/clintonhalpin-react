@@ -102,22 +102,6 @@ class App extends Component {
             </li>
           </ul>
 
-          <h2 className="m0">
-            <a href="https://thehitch.com">the Hitch</a>
-            <span className="h5 ml2">2015-2016</span>
-          </h2>
-          <hr />
-          <img src={hitch} className="fit" alt="The Hitch" />
-          <p className="mt0">
-            A platform for searching and discovering new wedding venues nearby
-            with upfront pricing and amenity listings.
-          </p>
-
-          <ul className="fancy-list list-reset">
-            <li>Front-End Development</li>
-            <li>UX & Product Planning</li>
-          </ul>
-
           <h2 className="dark-black py2 m0">Even More</h2>
 
           <h2 className="m0">
