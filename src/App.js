@@ -42,7 +42,7 @@ class App extends Component {
 
         <div className="container mx-auto px2">
           <h1 className="jumbo tight">
-            cryptocurrency tech lead, product, ux &amp; ui background.
+            tech lead, product, ux &amp; ui background.
           </h1>
 
           <h2 className="mb0">
