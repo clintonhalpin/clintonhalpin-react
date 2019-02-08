@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import qc from "./qc.jpg";
-import hitch from "./hitch.jpg";
-import crypto from "./crypto.jpg";
+import as from "./as.jpg";
 
 class App extends Component {
   render() {
@@ -42,24 +41,20 @@ class App extends Component {
 
         <div className="container mx-auto px2">
           <h1 className="jumbo tight">
-            tech lead, product, ux &amp; ui background.
+            product, ux &amp; ui background.
           </h1>
 
           <h2 className="mb0">
-            <span className="red">[stealth] Crypto Exchange</span>
-            <span className="h5 ml2">Present</span>
+            <a href="https://alpha-sense.com">AlphaSense</a>
+            <span className="h5 ml2">2019-present</span>
           </h2>
           <hr />
-          <img src={crypto} className="fit" alt="Quote Catalog" />
+          <img src={as} className="fit" alt="AlphaSense AI" />
           <p className="mt0">
-            Currently I am working on building a new cryptocurrency exchange.
-            Stay tuned for updates!
+            AI Powerered business insights
           </p>
-
           <ul className="fancy-list list-reset">
-            <li>Lead Frontend Developer, UX Designer and branding</li>
-            <li>Infrastructure and Devops leader</li>
-            <li>Building out our team! Please reach out!</li>
+            <li>Lead UX Designer - Search & Discovery</li>
           </ul>
 
           <h2 className="mb0">
