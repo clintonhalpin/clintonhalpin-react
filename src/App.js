@@ -40,9 +40,7 @@ class App extends Component {
         </div>
 
         <div className="container mx-auto px2">
-          <h1 className="jumbo tight">
-            product, ux &amp; ui background.
-          </h1>
+          <h1 className="jumbo tight">ux lead &amp; full-stack engineer</h1>
 
           <h2 className="mb0">
             <a href="https://alpha-sense.com">AlphaSense</a>
@@ -50,9 +48,7 @@ class App extends Component {
           </h2>
           <hr />
           <img src={as} className="fit" alt="AlphaSense AI" />
-          <p className="mt0">
-            AI Powerered business insights
-          </p>
+          <p className="mt0">AI Powerered business insights</p>
           <ul className="fancy-list list-reset">
             <li>Lead UX Designer - Search & Discovery</li>
           </ul>
@@ -71,7 +67,8 @@ class App extends Component {
             <li>Chatbots and automation</li>
             <li>Search engines</li>
             <li>
-              Ranking Algorithms, Machine Learning, Natrual Language Processing
+              Ranking Algorithms, Machine Learning, Natrual Language Processing,
+              Data Collection/Cleaning
             </li>
           </ul>
 
@@ -98,6 +95,12 @@ class App extends Component {
           </ul>
 
           <h2 className="dark-black py2 m0">Even More</h2>
+
+          <h2 className="m0">
+            <a href="https://putz.io">Putz</a>
+          </h2>
+          <hr />
+          <p className="mt0">My personal budgeting app</p>
 
           <h2 className="m0">
             <a href="http://sawsomeart.com">Saw Some Art</a>
@@ -152,14 +155,6 @@ class App extends Component {
           </h2>
           <hr />
           <p className="mt0">Over 100 responses to a simple question.</p>
-
-          <h2 className="m0">
-            <a href="http://kylethrash.com">Kyle Thrash</a>
-          </h2>
-          <hr />
-          <p className="mt0">
-            Website for NYC film director &amp; high-school friend
-          </p>
         </div>
 
         <div className="bg-white">
@@ -175,7 +170,6 @@ class App extends Component {
                 <ul className="list-reset">
                   <li className="mb1">Javascript</li>
                   <li className="mb1">React</li>
-                  <li className="mb1">Angular</li>
                   <li className="mb1">CSS</li>
                   <li className="mb1">Build Tools</li>
                 </ul>
@@ -188,7 +182,6 @@ class App extends Component {
                 <ul className="list-reset">
                   <li className="mb1">Node</li>
                   <li className="mb1">PHP</li>
-                  <li className="mb1">MYSQL</li>
                   <li className="mb1">Elasticsearch</li>
                   <li className="mb1">API Design</li>
                 </ul>
@@ -199,8 +192,8 @@ class App extends Component {
               <li className="dark-black bold mb2">Ops/IT</li>
               <li>
                 <ul className="list-reset">
-                  <li className="mb1">AWS Cloud</li>
-                  <li className="mb1">MYSQL</li>
+                  <li className="mb1">AWS</li>
+                  <li className="mb1">SQL</li>
                   <li className="mb1">Redis</li>
                   <li className="mb1">Nginx</li>
                   <li className="mb1">Ansible</li>
@@ -212,8 +205,8 @@ class App extends Component {
               <li className="dark-black bold mb2">Product Design</li>
               <li>
                 <ul className="list-reset">
-                  <li className="mb1">UX</li>
-                  <li className="mb1">UI</li>
+                  <li className="mb1">UX/UI</li>
+                  <li className="mb1">Sketch/Figma</li>
                   <li className="mb1">Agile</li>
                   <li className="mb1">iOS Design</li>
                   <li className="mb1">Material Design</li>
@@ -228,7 +221,7 @@ class App extends Component {
             <div className="table col-12 p2">
               <div className="table-cell center">
                 <a className="bold black inline-block no-underline" href="/">
-                  &copy; 2017 Clinton Halpin
+                  &copy; {new Date().getFullYear()} Clinton Halpin
                 </a>
                 <br />
                 <span className="gray">clintonhalpin(at)gmail.com</span>
