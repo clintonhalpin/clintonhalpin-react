@@ -33,12 +33,12 @@ class App extends Component {
           },
           {
             text:
-              "Organized and lead and company offsite following the Google Design Sprint methodology.",
+              "Organized and lead a company offsite, following the Google Design Sprint methodology.",
             link: "https://www.gv.com/sprint/"
           },
           {
             text:
-              "Built various prototypes for new and innovative products of various fidelities. (Backend/Frontend, Chrome Extensions, Codepens etc...)"
+              "Built various prototypes for new and innovative products of various fidelities."
           }
         ],
         image: as,
