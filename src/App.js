@@ -219,7 +219,7 @@ class App extends Component {
               New York City.
             </h1>
             <p>
-              I’m currently a Lead UX Designer at AlphaSense, where prototype,
+              I’m currently a Lead UX Designer at AlphaSense, where I prototype,
               design and develop our search engine for Financial documents.
             </p>
           </div>
