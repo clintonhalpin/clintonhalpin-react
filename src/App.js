@@ -27,13 +27,13 @@ class App extends Component {
         highlights: [
           {
             text:
-              "UX Lead for new and industry leading sentiment product for Earnings Transcripts (UX Lead)",
+              "Shipped industry leading sentiment product for Earnings Transcripts (UX Lead)",
             link:
               "https://www.alpha-sense.com/insights/sentiment-stock-market-movement"
           },
           {
             text:
-              "Organized and Lead and company offsite following the Google Design Sprint methodology.",
+              "Organized and lead and company offsite following the Google Design Sprint methodology.",
             link: "https://www.gv.com/sprint/"
           },
           {
@@ -54,7 +54,7 @@ class App extends Component {
         highlights: [
           {
             text:
-              "Lead Front-end developer built application from the ground up in less than 6 months",
+              "Lead front-end developer built application from the ground up in less than 6 months",
             link: "https://twitter.com/clintonhalpin/status/1050832836180238337"
           },
           {
@@ -64,7 +64,7 @@ class App extends Component {
           },
           {
             text:
-              "Worked Extensively with Websockets, Docker/Kubernetes, and Localization (English, Simplified Chinese, Traditional Chinese), Automated Testing",
+              "Worked extensively with websockets, Docker/Kubernetes, and localization, Automated Testing",
             link:
               "https://www.dropbox.com/s/0v2cp11uy6zlt4g/Oct-26-2018%2011-46-11.mp4?dl=0"
           }
