@@ -151,11 +151,6 @@ class App extends Component {
         description: "My personal budgeting app"
       },
       {
-        url: "http://sawsomeart.com",
-        title: "Saw Some Art",
-        description: "My art instagram account and API"
-      },
-      {
         url:
           "https://docs.google.com/presentation/d/1AGFl4n_bpdYJLvjceJzYUMSJ1dxMYqbqkH1WG69ALN0/edit?usp=sharing",
         title: "Slack Chatbot Sample",
