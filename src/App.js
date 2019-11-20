@@ -146,11 +146,6 @@ class App extends Component {
 
     const links = [
       {
-        url: "https://putz.io",
-        title: "Putz",
-        description: "My personal budgeting app"
-      },
-      {
         url:
           "https://docs.google.com/presentation/d/1AGFl4n_bpdYJLvjceJzYUMSJ1dxMYqbqkH1WG69ALN0/edit?usp=sharing",
         title: "Slack Chatbot Sample",
