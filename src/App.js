@@ -26,6 +26,12 @@ class App extends Component {
         job_title: "Lead UX Designer - Search & Discovery",
         highlights: [
           {
+            text:
+              "Sentiment Module, analyze sentiment trends for a company and its peers (UX Lead)",
+            link:
+              "https://www.alpha-sense.com/insights/search-summary-the-next-level-of-keyword-research-in-alphasense-0"
+          },
+          {
             text: "Search Summaries powered by faceted search (UX Lead)",
             link:
               "https://www.alpha-sense.com/insights/search-summary-the-next-level-of-keyword-research-in-alphasense"
